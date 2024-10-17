@@ -1,0 +1,6 @@
+SL NO,Vendor Name,Email,Phone,PaymentTermsCode,MerchandiseTypeCode,GovtIdCode,IdentityNumber,AddressLine1,AddressLine2,City,State,ZipCode,CountryCode,ManFEIN,TaxPaidFlag(true/false) 
+1,Nagaraj,raju@g.com,1234567890,PTCO,MTTR,GIPIN,123456,#123,City of okalama,Oklakhama,Alabama,45879,USA,8547226,true 
+2,Yashu,yashu@g.com,1234567891,PTCO,MTTR,GIPIN,123456,#123,City of okalama,Oklakhama,Alabama,45879,USA,8547226,true 
+3,Raghu,raghu@g.com,1234567892,PTCO,MTTR,GIPIN,123456,#123,City of okalama,Oklakhama,Alabama,45879,USA,8547226,true 
+4,Renuka,renuka@g.com,1234567893,PTCO,MTTR,GIPIN,123456,#123,City of okalama,Oklakhama,Alabama,45879,USA,8547226,true 
+5,Bheema,bheema@g.com,1234567894,PTCO,MTTR,GIPIN,123456,#123,City of okalama,Oklakhama,Alabama,45879,USA,8547226,true 

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-10T13:45:52 IST" name="Default suite" finished-at="2024-08-10T13:49:19 IST" duration-ms="206931">
+    <groups>
+    </groups>
+    <test started-at="2024-08-10T13:45:52 IST" name="Default test" finished-at="2024-08-10T13:49:19 IST" duration-ms="206931">
+      <class name="com.UnitedGrocery.TestCases.TC_LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:45:52 IST" name="setUp" finished-at="2024-08-10T13:45:52 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="LauchBrowser(java.lang.String)[pri:0, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:45:52 IST" name="LauchBrowser" finished-at="2024-08-10T13:46:07 IST" duration-ms="14798" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method signature="logopresence()[pri:1, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:46:07 IST" name="logopresence" finished-at="2024-08-10T13:46:11 IST" duration-ms="3388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logopresence -->
+        <test-method signature="verifylogin()[pri:2, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:46:11 IST" name="verifylogin" finished-at="2024-08-10T13:46:11 IST" duration-ms="596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method signature="PendingOrder()[pri:3, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:46:11 IST" name="PendingOrder" finished-at="2024-08-10T13:46:27 IST" duration-ms="15291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PendingOrder -->
+        <test-method signature="AcceptOrder()[pri:4, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:46:27 IST" name="AcceptOrder" finished-at="2024-08-10T13:46:44 IST" duration-ms="17030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AcceptOrder -->
+        <test-method signature="RejectOrder()[pri:5, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:46:44 IST" name="RejectOrder" finished-at="2024-08-10T13:47:02 IST" duration-ms="17874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RejectOrder -->
+        <test-method signature="PendingDelivery()[pri:6, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:47:02 IST" name="PendingDelivery" finished-at="2024-08-10T13:47:19 IST" duration-ms="17029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PendingDelivery -->
+        <test-method signature="delivered()[pri:7, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:47:19 IST" name="delivered" finished-at="2024-08-10T13:47:37 IST" duration-ms="18284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delivered -->
+        <test-method signature="MasterTab()[pri:8, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:47:37 IST" name="MasterTab" finished-at="2024-08-10T13:47:56 IST" duration-ms="18700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MasterTab -->
+        <test-method signature="CategoriesDownload()[pri:9, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:47:56 IST" name="CategoriesDownload" finished-at="2024-08-10T13:48:04 IST" duration-ms="8650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CategoriesDownload -->
+        <test-method signature="CategoriesUpload()[pri:10, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:48:04 IST" name="CategoriesUpload" finished-at="2024-08-10T13:48:09 IST" duration-ms="4818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CategoriesUpload -->
+        <test-method signature="VendorDownload()[pri:11, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:48:09 IST" name="VendorDownload" finished-at="2024-08-10T13:48:17 IST" duration-ms="7441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VendorDownload -->
+        <test-method signature="VendorUpload()[pri:12, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:48:17 IST" name="VendorUpload" finished-at="2024-08-10T13:48:21 IST" duration-ms="4314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VendorUpload -->
+        <test-method signature="VendorListDetails()[pri:13, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:48:21 IST" name="VendorListDetails" finished-at="2024-08-10T13:48:33 IST" duration-ms="12594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VendorListDetails -->
+        <test-method signature="returnList()[pri:14, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:48:33 IST" name="returnList" finished-at="2024-08-10T13:48:49 IST" duration-ms="15735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnList -->
+        <test-method signature="returnAccepted()[pri:15, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:48:49 IST" name="returnAccepted" finished-at="2024-08-10T13:49:04 IST" duration-ms="14866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnAccepted -->
+        <test-method signature="returnRejected()[pri:16, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:49:04 IST" name="returnRejected" finished-at="2024-08-10T13:49:18 IST" duration-ms="14126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnRejected -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:49:18 IST" name="tearDown" finished-at="2024-08-10T13:49:19 IST" duration-ms="1035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.UnitedGrocery.TestCases.TC_LoginTest@456d6c1e]" started-at="2024-08-10T13:49:19 IST" name="teardown" finished-at="2024-08-10T13:49:20 IST" duration-ms="563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.UnitedGrocery.TestCases.TC_LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
